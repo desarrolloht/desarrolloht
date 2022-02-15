@@ -1,4 +1,4 @@
-Referencia,Nombre_Producto,Existencia_MED,Transito,Reservas,Existencia_BOG,Total_Inv,Disponibilidad
+referencia,Nombre_Producto,Existencia_MED,Transito,Reservas,Existencia_BOG,Total_Inv,Disponibilidad
 01-22100-1,"(UND) TRIAD SUB SOBREPONER 1"" SERIE OMNI",0,1,1,0,0,-1
 01-2300-2,(UND) AMPLIFICADOR STANDALONE RACKAMP300,2,0,0,0,2,2
 01-30251-1,(PAR) PARLANTE DE SOBREPONER EXT OD25   ,0,4,4,0,0,-4
